@@ -17,6 +17,7 @@ Jinja2==2.10.3
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
+Pillow==7.1.2
 psycopg2==2.7.3.2
 pycodestyle==2.6.0
 pycparser==2.19
@@ -26,4 +27,5 @@ pytz==2020.1
 six==1.13.0
 typed-ast==1.4.0
 Werkzeug==0.16.0
+whitenoise==5.0.1
 wrapt==1.11.2
